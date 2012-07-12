@@ -16,9 +16,8 @@ public final class Constants {
 	public static final int CASSANDRA_GPS_POSITION_TOLERANCE = 1000000;
 	public static final double DEFAULT_RANGE = 2; // This is the range in degrees
 	
-	public static final String DATABASE_HOST = "emerald";
+	public static final String DATABASE_HOST = "localhost";
 	public static final int DATABASE_PORT = 9160;
-	
 	
 	public static final String OPENCV_HOST = "localhost";
 	public static final int OPENCV_PORT = 6667;

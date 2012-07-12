@@ -21,7 +21,7 @@ public:
 	static const char* TEST_FOLDER;
 	static const bool DEBUG = true;
 
-	static const double MAX_MATCHES_FOR_BEST_CONFIDENCE = 10;
+	static const double MAX_MATCHES_FOR_BEST_CONFIDENCE = 13;
 };
 
 
