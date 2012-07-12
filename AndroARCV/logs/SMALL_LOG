@@ -1,0 +1,233 @@
+[ObjectClassifier] Computing features for an image of size 530950 bytes.
+[ObjectClassifier] Computing features for an image of size 530950 bytes.
+[ObjectClassifier] Computing features for an image of size 546355 bytes.
+[ObjectClassifier] Computing features for an image of size 546355 bytes.
+[ObjectClassifier] Computing features for an image of size 573610 bytes.
+[ObjectClassifier] Computing features for an image of size 573610 bytes.
+[ObjectClassifier] Computing features for an image of size 557778 bytes.
+[ObjectClassifier] Computing features for an image of size 557778 bytes.
+[ObjectClassifier] Computing features for an image of size 520492 bytes.
+[ObjectClassifier] Computing features for an image of size 520492 bytes.
+[ObjectClassifier] Computing features for an image of size 514779 bytes.
+[ObjectClassifier] Computing features for an image of size 514779 bytes.
+[ObjectClassifier] Computing features for an image of size 513693 bytes.
+[ObjectClassifier] Computing features for an image of size 513693 bytes.
+[ObjectClassifier] Computing features for an image of size 525884 bytes.
+[ObjectClassifier] Computing features for an image of size 525884 bytes.
+[ObjectClassifier] Computing features for an image of size 557869 bytes.
+[ObjectClassifier] Computing features for an image of size 557869 bytes.
+[ObjectClassifier] Computing features for an image of size 568365 bytes.
+[ObjectClassifier] Computing features for an image of size 568365 bytes.
+[ObjectClassifier] Computing features for an image of size 495148 bytes.
+[ObjectClassifier] Computing features for an image of size 495148 bytes.
+[ObjectClassifier] Computing features for an image of size 577163 bytes.
+[ObjectClassifier] Computing features for an image of size 577163 bytes.
+[ObjectClassifier] Computing features for an image of size 502081 bytes.
+[ObjectClassifier] Matching image against object object0001 0
+[KNNMatchPurger] Purged 85.3725% (1249/1463) features. Only 214 features remain.
+[KNNMatchPurger] Purged 89.1257% (1631/1830) features. Only 199 features remain.
+[RANSACMatchPurger] Purged 24.3243% (9/37) features. Only 28 features remain.
+[ObjectClassifier] Matching image against object object0001 1
+[KNNMatchPurger] Purged 74.1627% (1085/1463) features. Only 378 features remain.
+[KNNMatchPurger] Purged 72.0862% (1237/1716) features. Only 479 features remain.
+[RANSACMatchPurger] Purged 7.88177% (16/203) features. Only 187 features remain.
+[ObjectClassifier] Matching image against object object0001 2
+[KNNMatchPurger] Purged 73.2741% (1072/1463) features. Only 391 features remain.
+[KNNMatchPurger] Purged 76.6578% (1445/1885) features. Only 440 features remain.
+[RANSACMatchPurger] Purged 7.76699% (16/206) features. Only 190 features remain.
+[ObjectClassifier] Matching image against object object0001 3
+[KNNMatchPurger] Purged 70.6083% (1033/1463) features. Only 430 features remain.
+[KNNMatchPurger] Purged 74.0556% (1333/1800) features. Only 467 features remain.
+[RANSACMatchPurger] Purged 9.83607% (18/183) features. Only 165 features remain.
+[ObjectClassifier] Matching image against object object0002 0
+[KNNMatchPurger] Purged 95.5571% (1398/1463) features. Only 65 features remain.
+[KNNMatchPurger] Purged 95.426% (2128/2230) features. Only 102 features remain.
+[RANSACMatchPurger] Purged 100% (3/3) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0002 1
+[KNNMatchPurger] Purged 94.9419% (1389/1463) features. Only 74 features remain.
+[KNNMatchPurger] Purged 95.4067% (1994/2090) features. Only 96 features remain.
+[RANSACMatchPurger] Purged 100% (1/1) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0002 2
+[KNNMatchPurger] Purged 94.4634% (1382/1463) features. Only 81 features remain.
+[KNNMatchPurger] Purged 96.1973% (1619/1683) features. Only 64 features remain.
+[RANSACMatchPurger] Purged 100% (5/5) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0002 3
+[KNNMatchPurger] Purged 95.0103% (1390/1463) features. Only 73 features remain.
+[KNNMatchPurger] Purged 92.984% (1047/1126) features. Only 79 features remain.
+[RANSACMatchPurger] Purged 100% (7/7) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 0
+[KNNMatchPurger] Purged 96.1039% (1406/1463) features. Only 57 features remain.
+[KNNMatchPurger] Purged 95.9572% (2065/2152) features. Only 87 features remain.
+[RANSACMatchPurger] Purged 12.5% (1/8) features. Only 7 features remain.
+[ObjectClassifier] Matching image against object object0003 1
+[KNNMatchPurger] Purged 94.4634% (1382/1463) features. Only 81 features remain.
+[KNNMatchPurger] Purged 95.7377% (2336/2440) features. Only 104 features remain.
+[RANSACMatchPurger] Purged 100% (7/7) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 2
+[KNNMatchPurger] Purged 95.352% (1395/1463) features. Only 68 features remain.
+[KNNMatchPurger] Purged 96.5714% (2197/2275) features. Only 78 features remain.
+[RANSACMatchPurger] Purged 100% (5/5) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 3
+[KNNMatchPurger] Purged 96.0355% (1405/1463) features. Only 58 features remain.
+[KNNMatchPurger] Purged 96.0473% (2600/2707) features. Only 107 features remain.
+[RANSACMatchPurger] Purged 100% (5/5) features. Only 0 features remain.
+********** TEST 1 **********
+image {
+  image_hash: "src/test/zurich/object0001.view03.png"
+}
+detected_objects {
+  object_type: BUILDING
+  bounding_box {
+    bottom: 41
+    top: 617
+    left: 34
+    right: 344
+  }
+  metadata {
+    name: "object0001"
+    description: "Found by OPENCV"
+  }
+  id: "object0001"
+}
+
+[ObjectClassifier] Computing features for an image of size 509794 bytes.
+[ObjectClassifier] Matching image against object object0001 0
+[KNNMatchPurger] Purged 94.7132% (1684/1778) features. Only 94 features remain.
+[KNNMatchPurger] Purged 95.0273% (1739/1830) features. Only 91 features remain.
+[RANSACMatchPurger] Purged 100% (6/6) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0001 1
+[KNNMatchPurger] Purged 95.8943% (1705/1778) features. Only 73 features remain.
+[KNNMatchPurger] Purged 94.9883% (1630/1716) features. Only 86 features remain.
+[RANSACMatchPurger] Purged 100% (7/7) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0001 2
+[KNNMatchPurger] Purged 96.3442% (1713/1778) features. Only 65 features remain.
+[KNNMatchPurger] Purged 95.5968% (1802/1885) features. Only 83 features remain.
+[RANSACMatchPurger] Purged 100% (5/5) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0001 3
+[KNNMatchPurger] Purged 95.0506% (1690/1778) features. Only 88 features remain.
+[KNNMatchPurger] Purged 95.2778% (1715/1800) features. Only 85 features remain.
+[RANSACMatchPurger] Purged 100% (3/3) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0002 0
+[KNNMatchPurger] Purged 90.4949% (1609/1778) features. Only 169 features remain.
+[KNNMatchPurger] Purged 90.5381% (2019/2230) features. Only 211 features remain.
+[RANSACMatchPurger] Purged 50% (13/26) features. Only 13 features remain.
+[ObjectClassifier] Matching image against object object0002 1
+[KNNMatchPurger] Purged 85.3768% (1518/1778) features. Only 260 features remain.
+[KNNMatchPurger] Purged 84.9282% (1775/2090) features. Only 315 features remain.
+[RANSACMatchPurger] Purged 27.7778% (20/72) features. Only 52 features remain.
+[ObjectClassifier] Matching image against object object0002 2
+[KNNMatchPurger] Purged 73.5658% (1308/1778) features. Only 470 features remain.
+[KNNMatchPurger] Purged 76.6488% (1290/1683) features. Only 393 features remain.
+[RANSACMatchPurger] Purged 35% (7/20) features. Only 13 features remain.
+[ObjectClassifier] Matching image against object object0002 3
+[KNNMatchPurger] Purged 91.5636% (1628/1778) features. Only 150 features remain.
+[KNNMatchPurger] Purged 91.6519% (1032/1126) features. Only 94 features remain.
+[RANSACMatchPurger] Purged 100% (5/5) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 0
+[KNNMatchPurger] Purged 94.4319% (1679/1778) features. Only 99 features remain.
+[KNNMatchPurger] Purged 95.4926% (2055/2152) features. Only 97 features remain.
+[RANSACMatchPurger] Purged 100% (6/6) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 1
+[KNNMatchPurger] Purged 96.4004% (1714/1778) features. Only 64 features remain.
+[KNNMatchPurger] Purged 96.0246% (2343/2440) features. Only 97 features remain.
+[RANSACMatchPurger] Purged 100% (5/5) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 2
+[KNNMatchPurger] Purged 94.7694% (1685/1778) features. Only 93 features remain.
+[KNNMatchPurger] Purged 94.9451% (2160/2275) features. Only 115 features remain.
+[RANSACMatchPurger] Purged 100% (6/6) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 3
+[KNNMatchPurger] Purged 95.4443% (1697/1778) features. Only 81 features remain.
+[KNNMatchPurger] Purged 95.9365% (2597/2707) features. Only 110 features remain.
+[RANSACMatchPurger] Purged 100% (6/6) features. Only 0 features remain.
+********** TEST 2 **********
+image {
+  image_hash: "src/test/zurich/object0002.view03.png"
+}
+detected_objects {
+  object_type: BUILDING
+  bounding_box {
+    bottom: 150
+    top: 512
+    left: 13
+    right: 464
+  }
+  metadata {
+    name: "object0002"
+    description: "Found by OPENCV"
+  }
+  id: "object0002"
+}
+
+[ObjectClassifier] Computing features for an image of size 544621 bytes.
+[ObjectClassifier] Matching image against object object0001 0
+[KNNMatchPurger] Purged 95.443% (2262/2370) features. Only 108 features remain.
+[KNNMatchPurger] Purged 94.6995% (1733/1830) features. Only 97 features remain.
+[RANSACMatchPurger] Purged 100% (6/6) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0001 1
+[KNNMatchPurger] Purged 95.1477% (2255/2370) features. Only 115 features remain.
+[KNNMatchPurger] Purged 93.9977% (1613/1716) features. Only 103 features remain.
+[RANSACMatchPurger] Purged 100% (5/5) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0001 2
+[KNNMatchPurger] Purged 96.1181% (2278/2370) features. Only 92 features remain.
+[KNNMatchPurger] Purged 95.1724% (1794/1885) features. Only 91 features remain.
+[RANSACMatchPurger] Purged 100% (7/7) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0001 3
+[KNNMatchPurger] Purged 95.2743% (2258/2370) features. Only 112 features remain.
+[KNNMatchPurger] Purged 94.2222% (1696/1800) features. Only 104 features remain.
+[RANSACMatchPurger] Purged 100% (6/6) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0002 0
+[KNNMatchPurger] Purged 95.3165% (2259/2370) features. Only 111 features remain.
+[KNNMatchPurger] Purged 94.843% (2115/2230) features. Only 115 features remain.
+[RANSACMatchPurger] Purged 12.5% (1/8) features. Only 7 features remain.
+[ObjectClassifier] Matching image against object object0002 1
+[KNNMatchPurger] Purged 95.9494% (2274/2370) features. Only 96 features remain.
+[KNNMatchPurger] Purged 95.7895% (2002/2090) features. Only 88 features remain.
+[RANSACMatchPurger] Purged 100% (1/1) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0002 2
+[KNNMatchPurger] Purged 94.6414% (2243/2370) features. Only 127 features remain.
+[KNNMatchPurger] Purged 95.3654% (1605/1683) features. Only 78 features remain.
+[RANSACMatchPurger] Purged 100% (1/1) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0002 3
+[KNNMatchPurger] Purged 95.3165% (2259/2370) features. Only 111 features remain.
+[KNNMatchPurger] Purged 95.9147% (1080/1126) features. Only 46 features remain.
+[RANSACMatchPurger] Purged 100% (2/2) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 0
+[KNNMatchPurger] Purged 91.3502% (2165/2370) features. Only 205 features remain.
+[KNNMatchPurger] Purged 94.2844% (2029/2152) features. Only 123 features remain.
+[RANSACMatchPurger] Purged 100% (6/6) features. Only 0 features remain.
+[ObjectClassifier] Matching image against object object0003 1
+[KNNMatchPurger] Purged 81.9831% (1943/2370) features. Only 427 features remain.
+[KNNMatchPurger] Purged 84.1393% (2053/2440) features. Only 387 features remain.
+[RANSACMatchPurger] Purged 18.9189% (7/37) features. Only 30 features remain.
+[ObjectClassifier] Matching image against object object0003 2
+[KNNMatchPurger] Purged 88.692% (2102/2370) features. Only 268 features remain.
+[KNNMatchPurger] Purged 88.5275% (2014/2275) features. Only 261 features remain.
+[RANSACMatchPurger] Purged 40% (6/15) features. Only 9 features remain.
+[ObjectClassifier] Matching image against object object0003 3
+[KNNMatchPurger] Purged 94.1772% (2232/2370) features. Only 138 features remain.
+[KNNMatchPurger] Purged 94.6435% (2562/2707) features. Only 145 features remain.
+[RANSACMatchPurger] Purged 47.0588% (8/17) features. Only 9 features remain.
+********** TEST 3 **********
+image {
+  image_hash: "src/test/zurich/object0003.view03.png"
+}
+detected_objects {
+  object_type: BUILDING
+  bounding_box {
+    bottom: 61
+    top: 364
+    left: 34
+    right: 316
+  }
+  metadata {
+    name: "object0003"
+    description: "Found by OPENCV"
+  }
+  id: "object0003"
+}
+
+**************************************
+Number of correct answers: 3 out of 3
+Number of wrong answers:   0 out of 3
+**************************************
+[opencv_test] Testing took 32852 milliseconds. Processing took 10065 milliseconds.
