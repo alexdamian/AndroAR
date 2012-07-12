@@ -83,6 +83,10 @@ Image run_tests(string filename, int* time_processing) {
 			obj->add_features()->CopyFrom(*v_it);
 		}
 	}
+
+	string wrong_answers = "";
+	int num_wrong_answers = 0;
+
 	for (int i = 0; i < M; ++i) {
 		int num_objects;
 		vector<string> expected_result;
@@ -110,7 +114,50 @@ Image run_tests(string filename, int* time_processing) {
 		// Let's check if everything is ok
 		cout << "********** TEST " << (i + 1) << " **********" << endl;
 		cout << image.DebugString() << endl;
-		//assert((int) expected_result.size() == image.detected_objects_size());
+		bool is_wrong = false;
+		if (image.detected_objects_size() != (int) expected_result.size()) {
+			++num_wrong_answers;
+			wrong_answers += string(str) + ": ";
+			is_wrong = true;
+		}
+		// Objects we didnt find
+		for (unsigned int i = 0; i < expected_result.size(); ++i) {
+			string expected = expected_result[i];
+			bool found = false;
+			for (int j = 0; j < image.detected_objects_size(); ++j) {
+				if (image.detected_objects(j).id() == expected) {
+					found = true;
+					break;
+				}
+			}
+			if (!found) {
+				wrong_answers += "-" + expected + " ";
+			}
+		}
+		// Objects we shouln't have found
+		for (int i = 0; i < image.detected_objects_size(); ++i) {
+			string achieved = image.detected_objects(i).id();
+			bool found = false;
+			for (unsigned int j = 0; j < expected_result.size(); ++j) {
+				if (expected_result[j] == achieved) {
+					found = true;
+					break;
+				}
+			}
+			if (!found) {
+				wrong_answers += "+" + achieved + " ";
+			}
+		}
+		if (is_wrong) {
+			wrong_answers += "\n";
+		}
 	}
+	cout << "**************************************" << endl;
+	cout << "Number of correct answers: " << (M - num_wrong_answers) << " out of " << M << endl;
+	cout << "Number of wrong answers:   " << num_wrong_answers << " out of " << M << endl;
+	if (num_wrong_answers != 0) {
+		cout << "These are: " << endl << wrong_answers << endl;
+	}
+	cout << "**************************************" << endl;
 	return image_template;
 }
