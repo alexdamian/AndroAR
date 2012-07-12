@@ -1,0 +1,101 @@
+80 20
+zurich/object0001.view01.png 1 object0001 zurich/object0001.view01.png
+zurich/object0001.view02.png 1 object0001 zurich/object0001.view02.png
+zurich/object0001.view04.png 1 object0001 zurich/object0001.view04.png
+zurich/object0001.view05.png 1 object0001 zurich/object0001.view05.png
+zurich/object0002.view01.png 1 object0002 zurich/object0002.view01.png
+zurich/object0002.view02.png 1 object0002 zurich/object0002.view02.png
+zurich/object0002.view04.png 1 object0002 zurich/object0002.view04.png
+zurich/object0002.view05.png 1 object0002 zurich/object0002.view05.png
+zurich/object0003.view01.png 1 object0003 zurich/object0003.view01.png
+zurich/object0003.view02.png 1 object0003 zurich/object0003.view02.png
+zurich/object0003.view04.png 1 object0003 zurich/object0003.view04.png
+zurich/object0003.view05.png 1 object0003 zurich/object0003.view05.png
+zurich/object0004.view01.png 1 object0004 zurich/object0004.view01.png
+zurich/object0004.view02.png 1 object0004 zurich/object0004.view02.png
+zurich/object0004.view04.png 1 object0004 zurich/object0004.view04.png
+zurich/object0004.view05.png 1 object0004 zurich/object0004.view05.png
+zurich/object0005.view01.png 1 object0005 zurich/object0005.view01.png
+zurich/object0005.view02.png 1 object0005 zurich/object0005.view02.png
+zurich/object0005.view04.png 1 object0005 zurich/object0005.view04.png
+zurich/object0005.view05.png 1 object0005 zurich/object0005.view05.png
+zurich/object0006.view01.png 1 object0006 zurich/object0006.view01.png
+zurich/object0006.view02.png 1 object0006 zurich/object0006.view02.png
+zurich/object0006.view04.png 1 object0006 zurich/object0006.view04.png
+zurich/object0006.view05.png 1 object0006 zurich/object0006.view05.png
+zurich/object0007.view01.png 1 object0007 zurich/object0007.view01.png
+zurich/object0007.view02.png 1 object0007 zurich/object0007.view02.png
+zurich/object0007.view04.png 1 object0007 zurich/object0007.view04.png
+zurich/object0007.view05.png 1 object0007 zurich/object0007.view05.png
+zurich/object0008.view01.png 1 object0008 zurich/object0008.view01.png
+zurich/object0008.view02.png 1 object0008 zurich/object0008.view02.png
+zurich/object0008.view04.png 1 object0008 zurich/object0008.view04.png
+zurich/object0008.view05.png 1 object0008 zurich/object0008.view05.png
+zurich/object0009.view01.png 1 object0009 zurich/object0009.view01.png
+zurich/object0009.view02.png 1 object0009 zurich/object0009.view02.png
+zurich/object0009.view04.png 1 object0009 zurich/object0009.view04.png
+zurich/object0009.view05.png 1 object0009 zurich/object0009.view05.png
+zurich/object0010.view01.png 1 object0010 zurich/object0010.view01.png
+zurich/object0010.view02.png 1 object0010 zurich/object0010.view02.png
+zurich/object0010.view04.png 1 object0010 zurich/object0010.view04.png
+zurich/object0010.view05.png 1 object0010 zurich/object0010.view05.png
+zurich/object0011.view01.png 1 object0011 zurich/object0011.view01.png
+zurich/object0011.view02.png 1 object0011 zurich/object0011.view02.png
+zurich/object0011.view04.png 1 object0011 zurich/object0011.view04.png
+zurich/object0011.view05.png 1 object0011 zurich/object0011.view05.png
+zurich/object0012.view01.png 1 object0012 zurich/object0012.view01.png
+zurich/object0012.view02.png 1 object0012 zurich/object0012.view02.png
+zurich/object0012.view04.png 1 object0012 zurich/object0012.view04.png
+zurich/object0012.view05.png 1 object0012 zurich/object0012.view05.png
+zurich/object0013.view01.png 1 object0013 zurich/object0013.view01.png
+zurich/object0013.view02.png 1 object0013 zurich/object0013.view02.png
+zurich/object0013.view04.png 1 object0013 zurich/object0013.view04.png
+zurich/object0013.view05.png 1 object0013 zurich/object0013.view05.png
+zurich/object0014.view01.png 1 object0014 zurich/object0014.view01.png
+zurich/object0014.view02.png 1 object0014 zurich/object0014.view02.png
+zurich/object0014.view04.png 1 object0014 zurich/object0014.view04.png
+zurich/object0014.view05.png 1 object0014 zurich/object0014.view05.png
+zurich/object0015.view01.png 1 object0015 zurich/object0015.view01.png
+zurich/object0015.view02.png 1 object0015 zurich/object0015.view02.png
+zurich/object0015.view04.png 1 object0015 zurich/object0015.view04.png
+zurich/object0015.view05.png 1 object0015 zurich/object0015.view05.png
+zurich/object0016.view01.png 1 object0016 zurich/object0016.view01.png
+zurich/object0016.view02.png 1 object0016 zurich/object0016.view02.png
+zurich/object0016.view04.png 1 object0016 zurich/object0016.view04.png
+zurich/object0016.view05.png 1 object0016 zurich/object0016.view05.png
+zurich/object0017.view01.png 1 object0017 zurich/object0017.view01.png
+zurich/object0017.view02.png 1 object0017 zurich/object0017.view02.png
+zurich/object0017.view04.png 1 object0017 zurich/object0017.view04.png
+zurich/object0017.view05.png 1 object0017 zurich/object0017.view05.png
+zurich/object0018.view01.png 1 object0018 zurich/object0018.view01.png
+zurich/object0018.view02.png 1 object0018 zurich/object0018.view02.png
+zurich/object0018.view04.png 1 object0018 zurich/object0018.view04.png
+zurich/object0018.view05.png 1 object0018 zurich/object0018.view05.png
+zurich/object0019.view01.png 1 object0019 zurich/object0019.view01.png
+zurich/object0019.view02.png 1 object0019 zurich/object0019.view02.png
+zurich/object0019.view04.png 1 object0019 zurich/object0019.view04.png
+zurich/object0019.view05.png 1 object0019 zurich/object0019.view05.png
+zurich/object0020.view01.png 1 object0020 zurich/object0020.view01.png
+zurich/object0020.view02.png 1 object0020 zurich/object0020.view02.png
+zurich/object0020.view04.png 1 object0020 zurich/object0020.view04.png
+zurich/object0020.view05.png 1 object0020 zurich/object0020.view05.png
+zurich/object0001.view03.png 1 object0001
+zurich/object0002.view03.png 1 object0002
+zurich/object0003.view03.png 1 object0003
+zurich/object0004.view03.png 1 object0004
+zurich/object0005.view03.png 1 object0005
+zurich/object0006.view03.png 1 object0006
+zurich/object0007.view03.png 1 object0007
+zurich/object0008.view03.png 1 object0008
+zurich/object0009.view03.png 1 object0009
+zurich/object0010.view03.png 1 object0010
+zurich/object0011.view03.png 1 object0011
+zurich/object0012.view03.png 1 object0012
+zurich/object0013.view03.png 1 object0013
+zurich/object0014.view03.png 1 object0014
+zurich/object0015.view03.png 1 object0015
+zurich/object0016.view03.png 1 object0016
+zurich/object0017.view03.png 1 object0017
+zurich/object0018.view03.png 1 object0018
+zurich/object0019.view03.png 1 object0019
+zurich/object0020.view03.png 1 object0020

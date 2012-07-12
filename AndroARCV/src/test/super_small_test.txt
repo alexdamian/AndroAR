@@ -1,0 +1,7 @@
+4 2
+zurich/object0001.view01.png 1 object0001 zurich/object0001.view01.png
+zurich/object0001.view02.png 1 object0001 zurich/object0001.view02.png
+zurich/object0001.view04.png 1 object0001 zurich/object0001.view04.png
+zurich/object0001.view05.png 1 object0001 zurich/object0001.view05.png
+zurich/object0001.view03.png 1 object0001
+zurich/object0003.view03.png 1 object0003
